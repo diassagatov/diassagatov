@@ -19,9 +19,9 @@
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diassagatov&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diassagatov&show_icons=true&theme=tokyonight&border_radius=4.5)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=diassagatov&theme=gruvbox&border_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=diassagatov&theme=tokyonight&border_radius=4.5) 
 
 #
 <!--
