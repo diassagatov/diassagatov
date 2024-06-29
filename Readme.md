@@ -17,8 +17,6 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-### 📊 Stats
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diassagatov&show_icons=true&theme=tokyonight&border_radius=4.5)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diassagatov&theme=tokyonight&border_radius=4.5) 
