@@ -1,4 +1,4 @@
-# 🏄‍♂️ Dias Sagatov
+# 👋  Dias Sagatov
 
 **`Frontend Developer`** 
 
