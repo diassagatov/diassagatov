@@ -13,6 +13,12 @@
 <br />
 
 ### 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diassagatov&show_icons=true&theme=tokyonight&border_radius=4.5)
   ![GitHub Streak](https://streak-stats.demolab.com?user=diassagatov&theme=tokyonight&border_radius=4.5) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diassagatov&layout=compact)
