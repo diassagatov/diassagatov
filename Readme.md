@@ -1,6 +1,9 @@
 # 👋  Dias Sagatov   
 **`Frontend Developer`** **`The Eternal Explorer`** 
-<div style="width: 300px; height: 200px; background-image: url('https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif'); background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
+<div style="width: 300px; height: 200px; background-image: url('https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+  
+</div>
+
 ###
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
