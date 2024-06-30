@@ -1,11 +1,11 @@
 
 
-
+<div align="center">
 # 👋  Dias Sagatov   
+  
 **`Frontend Developer`** **`The Eternal Explorer`** **`Cool Uncle`** **`Songwriter`** 
 
 ###
-<div align="center">
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,6 +27,7 @@
 <br />
 
 ### 
+
 <a href="https://github.com/diassagatov/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diassagatov&layout=compact&show_icons=false&border_radius=4.5" />
 </a>
@@ -35,15 +36,10 @@
 </a><br />
 *Note: this stats come from my public repositories only
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/diassagatov/diassagatov/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+
 </div>
-
-
 ### 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
