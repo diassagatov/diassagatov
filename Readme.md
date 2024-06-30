@@ -25,7 +25,7 @@
 </a>
 <a href="https://github.com/diassagatov/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diassagatov&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a><br />
 *Note: this stats come from my public repositories
 
 ### 
