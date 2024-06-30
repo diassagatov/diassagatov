@@ -1,10 +1,11 @@
+
+
+
 # 👋  Dias Sagatov   
-**`Frontend Developer`** **`The Eternal Explorer`** 
-<div style="width: 300px; height: 200px; background-image: url('https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
-  sadasdssdassad
-</div>
+**`Frontend Developer`** **`The Eternal Explorer`** **`Cool Uncle`** **`Songwriter`** 
 
 ###
+
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -16,7 +17,7 @@
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/google-analytics-3.svg" />
@@ -31,7 +32,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diassagatov&layout=compact&langs_count=8&card_width=320" />
 </a><br />
 *Note: this stats come from my public repositories only
-
 ### 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
