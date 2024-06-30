@@ -15,7 +15,7 @@
 ### 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diassagatov&show_icons=true&theme=tokyonight&border_radius=4.5)
   ![GitHub Streak](https://streak-stats.demolab.com?user=diassagatov&theme=tokyonight&border_radius=4.5) 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diassagatov)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diassagatov&layout=compact)
 #
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
