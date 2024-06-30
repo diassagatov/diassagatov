@@ -15,7 +15,7 @@
 ### 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=diassagatov&show_icons=true&theme=tokyonight&border_radius=4.5)
   ![GitHub Streak](https://streak-stats.demolab.com?user=diassagatov&theme=tokyonight&border_radius=4.5) 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diassagatov)](https://github.com/diassagatov/github-readme-stats)
 
 #
 <details>
