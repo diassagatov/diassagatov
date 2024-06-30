@@ -5,7 +5,7 @@
 **`Frontend Developer`** **`The Eternal Explorer`** **`Cool Uncle`** **`Songwriter`** 
 
 ###
-
+<div align="center">
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -21,6 +21,8 @@
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/google-analytics-3.svg" />
+</div>
+  
 
 <br />
 
@@ -32,6 +34,16 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diassagatov&layout=compact&langs_count=8&card_width=320" />
 </a><br />
 *Note: this stats come from my public repositories only
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/diassagatov/diassagatov/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 ### 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
