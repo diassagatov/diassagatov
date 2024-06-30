@@ -1,11 +1,13 @@
 
 
 <div align="center">
+  
 # 👋  Dias Sagatov   
   
 **`Frontend Developer`** **`The Eternal Explorer`** **`Cool Uncle`** **`Songwriter`** 
 
-###
+<div align="center">
+  
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -21,12 +23,9 @@
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/google-analytics-3.svg" />
+  
 </div>
   
-
-<br />
-
-### 
 
 <a href="https://github.com/diassagatov/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diassagatov&layout=compact&show_icons=false&border_radius=4.5" />
@@ -40,7 +39,9 @@
 
 
 </div>
+
 ### 
+
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I grew up in a small village in West Kazakhstan where computers were like mythical creatures until I hit around 10 years old. Back then, I had no clue about programming; I was just obsessed with building things.
