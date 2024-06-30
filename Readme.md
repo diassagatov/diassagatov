@@ -14,10 +14,10 @@
 
 ### 
 <a href="https://github.com/diassagatov/github-readme-stats">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=diassagatov&layout=compact&show_icons=false&border_radius=4.5" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=diassagatov&layout=compact&show_icons=false&border_radius=4.5" />
 </a>
 <a href="https://github.com/diassagatov/convoychat">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diassagatov&layout=compact&langs_count=8&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diassagatov&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### 
