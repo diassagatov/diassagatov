@@ -26,7 +26,7 @@
   
 </div>
   
-
+<br />
 <a href="https://github.com/diassagatov/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diassagatov&layout=compact&show_icons=false&border_radius=4.5" />
 </a>
