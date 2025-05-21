@@ -4,10 +4,9 @@
   
 # 👋  Dias Sagatov   
   
-**`Frontend Developer`** **`The Eternal Explorer`** **`Cool Uncle`** **`Songwriter`** 
+**`Software Developer`**
 
-<div align="center">
-  
+<div align="center"> 
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -21,9 +20,7 @@
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/google-analytics-3.svg" />
-  
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" /> 
 </div>
   
 <br />
